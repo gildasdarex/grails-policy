@@ -1,0 +1,4 @@
+#Grails Factories File
+#Thu Aug 25 14:27:07 WAT 2016
+grails.compiler.traits.TraitInjector=com.darex.ControllerTraitInjector
+grails.core.ArtefactHandler=com.darex.PolicyArtefactHandler
